@@ -12,3 +12,12 @@ h1 {
     font-weight: 200;
     color: #0ccac4;
 }
+
+.navBar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: linear-gradient(to left, rgba(7, 27, 82, 1) 0%, rgba(0, 128, 128, 1) 100%)
+}
